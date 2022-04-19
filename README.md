@@ -1,7 +1,7 @@
 # GDriveAPI
 This Demo shows ho to connect to Google drive using C# .NET lib Google.Apis.Drive  
 
-Main reference is [.NET Quickstart Guide](Google.Apis.Drive) with added functionality of separating user tokens and reusing them upon just login session.
+Main reference is [.NET Quickstart Guide](https://developers.google.com/drive/api/quickstart/dotnet) with added functionality of separating user tokens and reusing them upon just login session.
 
 ## How to use
 1, register new user (option 0)  
