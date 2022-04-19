@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDriveAPI", "GDriveAPI.csproj", "{DA96633B-7AA6-4B9C-A464-7C87A9CFFDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA96633B-7AA6-4B9C-A464-7C87A9CFFDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA96633B-7AA6-4B9C-A464-7C87A9CFFDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA96633B-7AA6-4B9C-A464-7C87A9CFFDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA96633B-7AA6-4B9C-A464-7C87A9CFFDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63457DA3-231B-47F9-AB41-83A5203B0AFC}
+	EndGlobalSection
+EndGlobal
